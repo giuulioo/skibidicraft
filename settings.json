@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skibidi104.aternos.me",
-    "port": 54955,
+    "ip": "skibidivanilla.falix.gg",
+    "port": 22214,
     "version": "1.21.11",
     "try-creative": false
   },
